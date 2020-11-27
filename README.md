@@ -4,7 +4,7 @@ Javes is a telgram userbot that running in python3 + Telethon ,  Born from <a hr
 
 
 ## Tap this img to deploy javes in heroku
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Frekcah-pavi%2Fjaves&template=https%3A%2F%2Fgithub.com%2Frekcah-pavi%2Fjaves"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Javes" /></a></p>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fhimanshuadwan%2Fjaves&template=https%3A%2F%2Fgithub.com%2Frekcah-pavi%2Fjaves"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Javes" /></a></p>
 
 
 ## Doc for make your own javes
